@@ -1,4 +1,4 @@
-# Sup-Board
+# Вёрстка лендинга Sup Board
 - HTML 5
 - CSS 3
 
